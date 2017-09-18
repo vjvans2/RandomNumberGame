@@ -1,0 +1,18 @@
+C:\Users\BOC Student\Desktop\Coding Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\BOC Student\Desktop\Coding Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\BOC Student\Desktop\Coding Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\BOC Student\Desktop\Coding Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\BOC Student\Desktop\Coding Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\BOC Student\Desktop\Coding Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\BOC Student\Desktop\Coding Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\BOC Student\Desktop\Coding Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\BOC Student\Desktop\Coding Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.RandomNumber.resources
+C:\Users\BOC Student\Desktop\Coding Projects\Guess My Number\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\BOC Student\Desktop\Coding Projects\Guess My Number\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\BOC Student\Desktop\Coding Projects\Guess My Number\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\BOC Student\Desktop\Coding Projects\Guess My Number\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\BOC Student\Desktop\Coding Projects\Guess My Number\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\BOC Student\Desktop\Coding Projects\Guess My Number\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\BOC Student\Desktop\Coding Projects\Guess My Number\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.RandomNumber.resources
+C:\Users\BOC Student\Desktop\Coding Projects\Guess My Number\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\BOC Student\Desktop\Coding Projects\Guess My Number\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
